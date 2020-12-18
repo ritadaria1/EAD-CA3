@@ -1769,11 +1769,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\EADCA3-master\\EADCA3.csproj",
+      "projectUniqueName": "D:\\schoolShit\\EADCA3\\EADCA3.csproj",
       "projectName": "EADCA3",
-      "projectPath": "F:\\EADCA3-master\\EADCA3.csproj",
+      "projectPath": "D:\\schoolShit\\EADCA3\\EADCA3.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "F:\\EADCA3-master\\obj\\",
+      "outputPath": "D:\\schoolShit\\EADCA3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YCrX/8NUMe2aMuLeGLyaKYt+GPe4+83okjPH/9QzVtkzCBpTC6iYYytItgjwG7r4SR9GQXqMSB99xRDxGhFtPQ==",
+  "dgSpecHash": "Jo9uUsUdB0Mljnuo4ATXqXkvahVq9EBwt/LGJszgOgxp0CDOM2VAkGBry9ynlBXlcnk1lU6CbUtCVwD/Cq2zDA==",
   "success": true,
-  "projectFilePath": "F:\\EADCA3-master\\EADCA3.csproj",
+  "projectFilePath": "D:\\schoolShit\\EADCA3\\EADCA3.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.authorization\\3.1.6\\microsoft.aspnetcore.authorization.3.1.6.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.components\\3.1.6\\microsoft.aspnetcore.components.3.1.6.nupkg.sha512",
